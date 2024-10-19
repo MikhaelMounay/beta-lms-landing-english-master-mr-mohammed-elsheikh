@@ -4,7 +4,7 @@ Official Website & Application for Mr. Mohammed ElSheikh
 
 > An instance of Beta LMS
 
-Deployment Status: 
+Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/e2f7ba7d-bd7a-4962-96e0-6386e172703c/deploy-status)](https://app.netlify.com/sites/emaster-melsheikh/deploys)
 
 <br>
 
